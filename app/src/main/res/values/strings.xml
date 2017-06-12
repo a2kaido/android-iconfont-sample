@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IconFont</string>
+
+    <string name="icon_fav">&#xe905;</string>
+    <string name="icon_info">&#xe900;</string>
+    <string name="icon_home">&#xe903;</string>
+    <string name="icon_pencil">&#xe908;</string>
+    <string name="icon_yen">&#xe93e;</string>
+    <string name="icon_clock">&#xe94e;</string>
+</resources>
