@@ -10,51 +10,25 @@
         android:layout_margin="8dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/icomoon"
-        android:textSize="36sp"
-        android:textColor="@color/colorAccent"
-        android:text="@string/icon_fav" />
+        android:fontFamily="@font/material_icons"
+        android:textSize="104sp"
+        android:text="@string/icon_android" />
 
     <TextView
         android:layout_margin="8dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/icomoon"
-        android:textSize="36sp"
         android:textColor="@color/colorPrimary"
-        android:text="@string/icon_info" />
+        android:textSize="208sp"
+        android:fontFamily="@font/material_icons"
+        android:text="&#xe859;" />
 
-    <TextView
+    <jp.sabakaido.iconfont.IconFontTextView
         android:layout_margin="8dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/icomoon"
-        android:textSize="36sp"
-        android:textColor="@color/colorPrimaryDark"
-        android:text="@string/icon_clock" />
-
-    <TextView
-        android:layout_margin="8dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/icomoon"
-        android:textSize="36sp"
-        android:text="@string/icon_home" />
-
-    <TextView
-        android:layout_margin="8dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/icomoon"
-        android:textSize="36sp"
-        android:text="@string/icon_pencil" />
-
-    <TextView
-        android:layout_margin="8dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:fontFamily="@font/icomoon"
-        android:textSize="36sp"
-        android:text="@string/icon_yen" />
+        android:textColor="@color/colorPrimary"
+        android:textSize="64sp"
+        android:text="@string/icon_android" />
 
 </LinearLayout>

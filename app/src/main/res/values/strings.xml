@@ -7,4 +7,6 @@
     <string name="icon_pencil">&#xe908;</string>
     <string name="icon_yen">&#xe93e;</string>
     <string name="icon_clock">&#xe94e;</string>
+
+    <string name="icon_android">&#xe859;</string>
 </resources>
